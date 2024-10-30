@@ -21,7 +21,7 @@ https://github.com/wikimedia/jquery.ime
 - [x] Remove bootstrap.css
 - [ ] Add FAQ pages
 - [ ] Multiple notepad
-- [ ] Save text to local storage
+- [x] Save text to local storage
 - [ ] Warn user when hitting Ctrl+W
 
 ## nginx
